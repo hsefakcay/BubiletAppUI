@@ -1,4 +1,4 @@
-# bubilet_app
+# bubilet_app_ui
 
 A new Flutter project.
 
