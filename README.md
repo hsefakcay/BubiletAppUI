@@ -1,16 +1,10 @@
 # bubilet_app_ui
 
-A new Flutter project.
+Bu proje, Türkiye'de çokça kullanılan Bubilet uygulamasının bir ekran tasarımını içermektedir. Flutter kullanarak gerçekleştirdiğim bu tasarım, kullanıcı deneyimini ön planda tutarak modern ve şık bir arayüz sunmayı amaçlamaktadır.
 
-## Getting Started
+This project contains a screen design of the Bubilet application, which is widely used in Turkey. The design, created using Flutter, aims to provide a modern and sleek interface while prioritizing user experience.
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/1d429d5d-5d38-4816-bd65-e5b25147ad23)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
