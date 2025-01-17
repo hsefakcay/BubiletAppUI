@@ -1,4 +1,4 @@
-# bubilet_app_ui
+# Bubilet App UI
 
 Bu proje, Türkiye'de çokça kullanılan Bubilet uygulamasının bir ekran tasarımını içermektedir. Flutter kullanarak gerçekleştirdiğim bu tasarım, kullanıcı deneyimini ön planda tutarak modern ve şık bir arayüz sunmayı amaçlamaktadır.
 
